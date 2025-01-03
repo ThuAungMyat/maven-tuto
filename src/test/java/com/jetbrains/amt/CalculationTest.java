@@ -17,6 +17,6 @@ public class CalculationTest {
 
     @Test
     public void testReverseWord() {
-        assertEquals("ym eman si nahk", Calculation.reverseWord("Hello World!"));
+        assertEquals("olleH !dlroW ", Calculation.reverseWord("Hello World!"));
     }
 }
